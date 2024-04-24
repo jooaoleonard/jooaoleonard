@@ -1,6 +1,6 @@
 👋 Olá 
 
-Sou estudante de Ciência da Computação e estou ativamente buscando oportunidades de estágio ou emprego que me permitam aprimorar e aplicar minhas habilidades em programação e cibersegurança. 
+Sou estudante de Ciência da Computação e estou ativamente buscando aprimorar e aplicar minhas habilidades em programação e cibersegurança. 
 
 Meu foco principal está em Python, HTML, CSS e JavaScript — linguagens com as quais desenvolvi diversos projetos acadêmicos e pessoais.
 
